@@ -7,10 +7,10 @@
 ## 参与方式
 
 ### 翻译群二维码：
-![翻译群二维码](./images/691571017049_.pic_hd.jpg)
+![翻译群二维码](https://github.com/cqlilon/The-TCP-IP-Guide/blob/master/images/691571017049_.pic_hd.jpg)
 
 ### 联系人二维码
-![翻译群二维码](./images/701571017050_.pic.jpg)
+![翻译群二维码](https://github.com/cqlilon/The-TCP-IP-Guide/blob/master/images/701571017050_.pic.jpg)
 
 
 ## 目录
