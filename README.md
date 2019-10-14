@@ -9,7 +9,7 @@
 ### 翻译群二维码：
 ![翻译群二维码](https://github.com/cqlilon/The-TCP-IP-Guide/blob/master/images/691571017049_pic_hd.jpg)
 
-### 联系人二维码
+### 联系人二维码：
 ![翻译群二维码](https://github.com/cqlilon/The-TCP-IP-Guide/blob/master/images/701571017050_pic.jpg)
 
 
@@ -18,7 +18,7 @@
 ### 第一节：TCP/IP概述和背景信息
 
 #### 第I-1部分：网络基础
-- 第1章：网络介绍、特点和类型
+- 第1章：网络介绍、特点和类型（译者：daryl，进度：0%）
 - - 1.网络介绍
 - - - 什么是网络？
 - - - 网络的优势和好处
